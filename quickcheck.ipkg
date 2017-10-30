@@ -1,0 +1,13 @@
+package quickcheck
+
+author     = David Christiansen
+maintainer = David Christiansen
+license    = BSD3 but see LICENSE for more information
+brief      = "QuickCheck."
+readme     = README.md
+
+sourceloc  = git@github.com:david-christiansen/idris-quickcheck.git
+
+pkgs = prelude
+
+modules = QuickCheck
